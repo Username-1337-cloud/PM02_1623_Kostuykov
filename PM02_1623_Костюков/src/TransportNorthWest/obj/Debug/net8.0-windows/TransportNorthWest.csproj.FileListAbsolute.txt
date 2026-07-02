@@ -1,0 +1,15 @@
+C:\Users\231795\source\repos\pm.02\PM02_1623_Костюков\src\TransportNorthWest\bin\Debug\net8.0-windows\TransportNorthWest.exe
+C:\Users\231795\source\repos\pm.02\PM02_1623_Костюков\src\TransportNorthWest\bin\Debug\net8.0-windows\TransportNorthWest.deps.json
+C:\Users\231795\source\repos\pm.02\PM02_1623_Костюков\src\TransportNorthWest\bin\Debug\net8.0-windows\TransportNorthWest.runtimeconfig.json
+C:\Users\231795\source\repos\pm.02\PM02_1623_Костюков\src\TransportNorthWest\bin\Debug\net8.0-windows\TransportNorthWest.dll
+C:\Users\231795\source\repos\pm.02\PM02_1623_Костюков\src\TransportNorthWest\bin\Debug\net8.0-windows\TransportNorthWest.pdb
+C:\Users\231795\source\repos\pm.02\PM02_1623_Костюков\src\TransportNorthWest\obj\Debug\net8.0-windows\TransportNorthWest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\231795\source\repos\pm.02\PM02_1623_Костюков\src\TransportNorthWest\obj\Debug\net8.0-windows\TransportNorthWest.AssemblyInfoInputs.cache
+C:\Users\231795\source\repos\pm.02\PM02_1623_Костюков\src\TransportNorthWest\obj\Debug\net8.0-windows\TransportNorthWest.AssemblyInfo.cs
+C:\Users\231795\source\repos\pm.02\PM02_1623_Костюков\src\TransportNorthWest\obj\Debug\net8.0-windows\TransportNorthWest.csproj.CoreCompileInputs.cache
+C:\Users\231795\source\repos\pm.02\PM02_1623_Костюков\src\TransportNorthWest\obj\Debug\net8.0-windows\TransportNorthWest.sourcelink.json
+C:\Users\231795\source\repos\pm.02\PM02_1623_Костюков\src\TransportNorthWest\obj\Debug\net8.0-windows\TransportNorthWest.dll
+C:\Users\231795\source\repos\pm.02\PM02_1623_Костюков\src\TransportNorthWest\obj\Debug\net8.0-windows\refint\TransportNorthWest.dll
+C:\Users\231795\source\repos\pm.02\PM02_1623_Костюков\src\TransportNorthWest\obj\Debug\net8.0-windows\TransportNorthWest.pdb
+C:\Users\231795\source\repos\pm.02\PM02_1623_Костюков\src\TransportNorthWest\obj\Debug\net8.0-windows\TransportNorthWest.genruntimeconfig.cache
+C:\Users\231795\source\repos\pm.02\PM02_1623_Костюков\src\TransportNorthWest\obj\Debug\net8.0-windows\ref\TransportNorthWest.dll
